@@ -1,4 +1,4 @@
-# Esto es un blog de puras cosas al azar :fa-child:
+# Esto es un blog de puras cosas al azar:
 Un blog de curso de Git y GItHub de platzi
 >Ns la verdad que arranqu con esto pensando que iba a ser re caca y me gusto. 
 >
